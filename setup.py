@@ -10,7 +10,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name='DeepSlice',
     packages=find_packages(),
-    version='{{VERSION_PLACEHOLDER}}',
+    version='1.2.5+bash',
     license='GPL-3.0',
     description='A package to align histology to 3D brain atlases',
     long_description=long_description,
